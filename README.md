@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/sahil-memon">
     <img src="https://img.shields.io/badge/sahil%20memon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
+  <a href="https://twitter.com/SamFusedBits">
+    <img src="https://img.shields.io/badge/SamFusedBits-000000?style=for-the-badge&logo=X&logoColor=white"/>  
+  </a>
   <a>
   <a href="https://discordapp.com/users/1118861913363853323">
     <img src="https://img.shields.io/badge/SamFusedBits-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
