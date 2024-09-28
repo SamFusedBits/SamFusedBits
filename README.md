@@ -6,10 +6,13 @@
  
 <div align="center">
   <a href="mailto:ms.sahilmemon@gmail.com">
-    <img src="https://img.shields.io/badge/techv.sahil@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ms.sahilmemon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sahil-memon">
     <img src="https://img.shields.io/badge/sahil%20memon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>
+  <a href="https://sahil-memon.vercel.app">
+    <img src="https://img.shields.io/badge/Personal%20Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white"/>    
   </a>
   <a href="https://twitter.com/SamFusedBits">
     <img src="https://img.shields.io/badge/SamFusedBits-000000?style=for-the-badge&logo=X&logoColor=white"/>  
