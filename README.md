@@ -27,17 +27,36 @@
 
 <h2 align="center">⚡ Technologies</h2>
 
-### Language:
+<div align="center">
 
-  <a href="https:skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,dotnet,php,html,css,mysql"/>
-  </a>
+### Programming Languages
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+</p>
 
-### Libraries, Framework & Tools:
+---
 
-   <a href="https:skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,redis,mongodb,firebase,git,github,heroku,vercel,vscode,idea,visualstudio,linux,androidstudio"/>
-   </a>
+### Libraries, Frameworks & Tools
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vercel/vercel-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+</p>
+
+</div>
 
 <h2 align="center">📈 Stats </h2>
 <br>
