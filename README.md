@@ -9,10 +9,10 @@ I'm **Sahil Memon**, a tech enthusiast and Full Stack Developer. I believe in th
   <a href="https://www.linkedin.com/in/sahil-memon">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>
-  <a href="https://sahil-memon.vercel.app">
+  <a href="https://www.samfusedbits.com">
     <img src="https://img.shields.io/badge/Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white"/>    
   </a>
-  <a href="https://twitter.com/SamFusedBits">
+  <a href="https://www.x.com/SamFusedBits">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white"/>  
   </a>
   <a href="https://discordapp.com/users/1118861913363853323">
